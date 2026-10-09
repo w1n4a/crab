@@ -51,7 +51,7 @@ crab compare legacy.csv snapshot.csv
 This utility is distributed exclusively through the **w1n** environment manager. To deploy the binary directly into your local path environment, execute:
 
 ```bash
-w1n -S crab
+w1n install crab
 ```
 
 ## License
